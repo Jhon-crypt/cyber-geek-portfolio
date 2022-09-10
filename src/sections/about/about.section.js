@@ -23,7 +23,7 @@ portfolio.directive("about", function(){
 
             <div class="col-lg-6 mx-auto">
                 <p class="lead mb-4">I'm yet another passionate tech bro as they usually call it, focused on building web specific 
-                applications, Constantly learning new stuff, doing my best in maiking the world a better place.</p>
+                applications, Constantly learning new stuff, doing my best in making the world a better place.</p>
 
             </div>
 
