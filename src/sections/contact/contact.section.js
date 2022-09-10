@@ -21,6 +21,8 @@ portfolio.directive("contact", function(){
                 Contact <i class="fa fa-address-book"></i>
             </h3>
 
+            <div align="center">
+
             <div class="row pt-4">
 
                 <div class="col">
@@ -30,7 +32,7 @@ portfolio.directive("contact", function(){
                         <div class="card-body">
 
                             <h4 class="card-title">
-                                Email
+                               <i class="fa fa-send"></i> Email
                             </h4>
 
                             <p>johnoladele690@gmail.com</p>
@@ -48,7 +50,7 @@ portfolio.directive("contact", function(){
                         <div class="card-body">
 
                             <h4 class="card-title">
-                                Github
+                                <i class="fa fa-github"></i> Github
                             </h4>
 
                             <p>https://github.com/jhon-crypt/</p>
@@ -66,7 +68,25 @@ portfolio.directive("contact", function(){
                         <div class="card-body">
 
                             <h4 class="card-title">
-                                Phone
+                               <i class="fa fa-twitter"></i> Twitter
+                            </h4>
+
+                            <p>https://twitter.com/cyber_geek__/</p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col">
+
+                    <div class="card bg-dark" style="width:200px">
+
+                        <div class="card-body">
+
+                            <h4 class="card-title">
+                               <i class="fa fa-phone"></i> Phone
                             </h4>
 
                             <p>+2439061811990<br>That's all</p>
@@ -76,6 +96,8 @@ portfolio.directive("contact", function(){
                     </div>
 
                 </div>
+
+            </div>
 
             </div>
 

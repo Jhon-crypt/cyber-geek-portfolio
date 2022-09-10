@@ -21,19 +21,25 @@ portfolio.directive("projects", function(){
                 Projects <i class="fa fa-briefcase"></i>
             </h3>
 
+            <div align="center">
+
             <div class="row pt-4">
 
                 <div class="col">
 
-                    <div class="card bg-dark" style="width:200px">
+                    <div class="card bg-dark mb-2" style="width:200px">
 
-                        <div class="card-body">
+                        <img class="crad-img-top" src="./src/images/www.edtech-classroom.epizy.com_dashboard_lecturer-dashboard_.png" 
+                        style="object-fit:cover;height:150px">
+
+                        <div class="card-img-overlay" style="font-weight:bold;border:1px solid;background-color:rgb(0,0,0);
+                        background-color: rgba(0,0,0,0.4);">
 
                             <h4 class="card-title">
-                                Edtech class
+                                Edtech-Class
                             </h4>
 
-                            <p>A course management system</p>
+                            <p class="card-text">A course management system</p>
 
                             <a href="https://www.edtech-classroom.epizy.com/" class="btn btn-light text-dark">
                                 View <i class="fa fa-external-link"></i>
@@ -47,9 +53,13 @@ portfolio.directive("projects", function(){
 
                 <div class="col">
 
-                    <div class="card bg-dark" style="width:200px">
+                    <div class="card bg-dark mb-2" style="width:200px">
 
-                        <div class="card-body">
+                        <img class="crad-img-top" src="./src/images/taskstack.png" 
+                        style="object-fit:cover;height:150px">
+
+                        <div class="card-img-overlay" style="font-weight:bold;border:1px solid;background-color:rgb(0,0,0);
+                        background-color: rgba(0,0,0,0.4);">
 
                             <h4 class="card-title">
                                 Task stack
@@ -69,9 +79,13 @@ portfolio.directive("projects", function(){
 
                 <div class="col">
 
-                    <div class="card bg-dark" style="width:200px">
+                    <div class="card bg-dark mb-2" style="width:200px">
 
-                        <div class="card-body">
+                        <img class="crad-img-top" src="./src/images/wheelsx.netlify.app_.png" 
+                        style="object-fit:cover;height:150px">
+
+                        <div class="card-img-overlay" style="font-weight:bold;border:1px solid;background-color:rgb(0,0,0);
+                        background-color: rgba(0,0,0,0.4);">
 
                             <h4 class="card-title">
                                 WheelsX
@@ -91,12 +105,16 @@ portfolio.directive("projects", function(){
 
                 <div class="col">
 
-                    <div class="card bg-dark" style="width:200px">
+                    <div class="card bg-dark mb-2" style="width:200px">
 
-                        <div class="card-body">
+                        <img class="crad-img-top" src="./src/images/phoneshopz.png" 
+                        style="object-fit:cover;height:150px">
+
+                        <div class="card-img-overlay" style="font-weight:bold;border:1px solid;background-color:rgb(0,0,0);
+                        background-color: rgba(0,0,0,0.4);">
 
                             <h4 class="card-title">
-                                Phone shopz
+                                Phone-Shopz
                             </h4>
 
                             <p>A simple phone store landing page</p>
@@ -110,6 +128,8 @@ portfolio.directive("projects", function(){
                     </div>
 
                 </div>
+
+            </div>
 
             </div>
 
