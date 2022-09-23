@@ -140,7 +140,7 @@ portfolio.directive("projects", function(){
                         background-color: rgba(0,0,0,0.4);">
 
                             <h4 class="card-title">
-                                Recap
+                                Recap 
                             </h4>
 
                             <p>A social media video downloader</p>
