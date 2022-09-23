@@ -129,6 +129,32 @@ portfolio.directive("projects", function(){
 
                 </div>
 
+                <div class="col">
+
+                    <div class="card bg-dark mb-2" style="width:200px">
+
+                        <img class="crad-img-top" src="./src/images/recap-app.netlify.app_.png" 
+                        style="object-fit:cover;height:150px">
+
+                        <div class="card-img-overlay" style="font-weight:bold;border:1px solid;background-color:rgb(0,0,0);
+                        background-color: rgba(0,0,0,0.4);">
+
+                            <h4 class="card-title">
+                                Recap
+                            </h4>
+
+                            <p>A social media video downloader</p>
+
+                            <a href="https://recap-app.netlify.app/" class="btn btn-light text-dark">
+                                View <i class="fa fa-external-link"></i>
+                            </a>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
             </div>
 
             </div>
